@@ -6,7 +6,7 @@
  *	Precision for position calculation
  *
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com>
  *
@@ -65,6 +65,5 @@ float result_tor;
 int root_function(int arg)
 {
 	result_tor = (float) arg;
-	//result = ;
 	return (int) round(sqrt(result_tor));
 }

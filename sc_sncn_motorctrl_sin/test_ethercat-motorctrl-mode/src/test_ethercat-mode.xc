@@ -7,7 +7,7 @@
  *  Test illustrates usage of Motor Control with Ethercat
  *
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com> & Martin Schwarz <mschwarz@synapticon.com>
  *
@@ -94,7 +94,7 @@ int main(void)
 	par
 	{
 		/* Ethercat Communication Handler Loop */
-		on stdcore[0] :
+		on stdcore[COM_CORE] :
 		{
 			ecat_init();
 			ecat_handler(coe_out, coe_in, eoe_out, eoe_in, eoe_sig, foe_out,
@@ -102,7 +102,7 @@ int main(void)
 		}
 
 		/* Firmware Update Loop */
-		on stdcore[0] :
+		on stdcore[COM_CORE] :
 		{
 			firmware_update(foe_out, foe_in, c_sig_1); // firmware update over Ethercat
 		}

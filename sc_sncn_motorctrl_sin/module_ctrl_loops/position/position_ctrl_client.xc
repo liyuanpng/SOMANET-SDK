@@ -6,7 +6,7 @@
  *	Position control Loop Client functions
  *
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com>
  *
@@ -43,7 +43,7 @@
 #include <drive_config.h>
 
 
-#define debug_print
+//#define debug_print
 
 
 int init_position_control(chanend c_position_ctrl)

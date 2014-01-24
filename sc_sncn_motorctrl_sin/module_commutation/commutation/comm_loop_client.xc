@@ -5,7 +5,7 @@
  *
  * Commutation Loop Client functions
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com>, Ludwig Orgler <lorgler@synapticon.com>
  * 			& Martin Schwarz <mschwarz@synapticon.com>
@@ -57,13 +57,11 @@ void init_commutation_param(commutation_par &commutation_params, hall_par &hall_
 	}
 	else if(hall_params.pole_pairs >=4)
 	{
-		commutation_params.max_speed_reached = nominal_speed;//10000;//
+		commutation_params.max_speed_reached = nominal_speed;
 		commutation_params.flag = 0;
 	}
 	commutation_params.qei_forward_offset = 0;
 	commutation_params.qei_backward_offset = 0;
-//	printintln(commutation_params.angle_variance);
-//	printintln(commutation_params.max_speed_reached);
 }
 
 
@@ -91,14 +89,3 @@ void set_commutation_sinusoidal(chanend c_commutation, int input_voltage)
 	return;
 }
 
-void disable_motor(chanend c_commutation)
-{
-	c_commutation <: DISABLE_FETS;
-	return;
-}
-
-void enable_motor(chanend c_commutation)
-{
-	c_commutation <: ENABLE_FETS;
-	return;
-}

@@ -7,7 +7,7 @@
  *  Test illustrates usage of hall sensor for position and velocity information
  *
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com> & Martin Schwarz <mschwarz@synapticon.com>
  *
@@ -51,7 +51,6 @@
 #include <xscope.h>
 #include <bldc_motor_config.h>
 #include <drive_config.h>
-//#include <flash_somanet.h>
 
 //#define ENABLE_xscope_main
 #define COM_CORE 0
@@ -71,7 +70,7 @@ void xscope_initialise_1()
 }
 
 
-/* hall sensor test function */
+/* Hall Sensor Test Function */
 void hall_test(chanend c_hall)
 {
 	int position;

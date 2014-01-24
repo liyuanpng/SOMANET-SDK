@@ -6,7 +6,7 @@
  *
  *	Please define your the motor specifications here
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com> & Martin Schwarz <mschwarz@synapticon.com>
  *
@@ -109,8 +109,8 @@
 #define POSITION_Kd_NUMERATOR    	100
 #define POSITION_Kd_DENOMINATOR  	10000
 
-#define MAX_POSITION_LIMIT 			359		// degree
-#define MIN_POSITION_LIMIT 			-359	// degree
+#define MAX_POSITION_LIMIT 			350		// degree should not exceed 359
+#define MIN_POSITION_LIMIT 			-350	// degree should not exceed 359
 
 
 

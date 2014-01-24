@@ -1,9 +1,9 @@
-SOFTWARE COMPONENT Control Protocol
+SOFTWARE COMPONENT Control Protocol: Communication protocol layer for motor control
 ...................................
 
 :Latest release: 0.9beta
 :Maintainer: support@synapticon.com
-:Description: Implementation of Control Protocol for Motor Control on SOMANET over EtherCAT. 	
+:Description: Implementation of Communication protocol layer for Motor Control on SOMANET over EtherCAT.
 
 
 Key Features

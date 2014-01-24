@@ -5,7 +5,7 @@
  *
  * Commutation Loop based on sinusoidal commutation method
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Ludwig Orgler <lorgler@synapticon.com>, Pavan Kanajar <pkanajar@synapticon.com>
  * 		   & Martin Schwarz <mschwarz@synapticon.com>
@@ -153,7 +153,6 @@ void commutation_sinusoidal_loop(int sensor_select, hall_par &hall_params, qei_p
 		}
 		else if(sensor_select == QEI)
 		{
-			//angle = (get_sync_position(c_sync) << 12)/max_count_per_hall;
 			{angle, fw_flag, bw_flag} = get_qei_sync_position(c_qei);
 			angle = (angle << 12)/max_count_per_hall;
 			if(voltage >=0)
@@ -187,7 +186,7 @@ void commutation_sinusoidal_loop(int sensor_select, hall_par &hall_params, qei_p
 			}
 			else if(sensor_select == QEI)
 			{
-				angle_pwm = (((angle + commutation_params.offset_forward) & 0x0fff) >> 2)&0x3ff;	 //512
+				angle_pwm = (((angle + commutation_params.offset_forward) & 0x0fff) >> 2)&0x3ff;
 			}
 			pwm[0] = ((sine_third_expanded(angle_pwm))*voltage)/13889   + pwm_half;
 			angle_pwm = (angle_pwm + 341) & 0x3ff;
@@ -205,7 +204,7 @@ void commutation_sinusoidal_loop(int sensor_select, hall_par &hall_params, qei_p
 			}
 			else if(sensor_select == QEI)
 			{
-				angle_pwm = (((angle  + commutation_params.offset_backward ) & 0x0fff) >> 2)&0x3ff;  	 //3100
+				angle_pwm = (((angle  + commutation_params.offset_backward ) & 0x0fff) >> 2)&0x3ff;
 			}
 			pwm[0] = ((sine_third_expanded(angle_pwm))*-voltage)/13889   + pwm_half;
 			angle_pwm = (angle_pwm + 341) & 0x3ff;

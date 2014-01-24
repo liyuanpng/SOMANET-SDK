@@ -6,7 +6,7 @@
  *	Velocity Control Loop Client functions
  *
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com>
  *
@@ -44,7 +44,7 @@
 #include <drive_config.h>
 #include "print.h"
 
-#define debug_print
+//#define debug_print
 
 int init_velocity_control(chanend c_velocity_ctrl)
 {

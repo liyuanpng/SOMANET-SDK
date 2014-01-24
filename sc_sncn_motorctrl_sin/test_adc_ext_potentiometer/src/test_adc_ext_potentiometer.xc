@@ -7,7 +7,7 @@
  *  Test illustrates usage of adc to get external potentiometer sensor values
  *
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Pavan Kanajar <pkanajar@synapticon.com> & Martin Schwarz <mschwarz@synapticon.com>
  *
@@ -54,9 +54,9 @@
 #include <xscope.h>
 #include <bldc_motor_config.h>
 #include <drive_config.h>
-//#include <flash_somanet.h>
 
 #define ENABLE_xscope_main
+#define MOTOR_CONTROL
 #define COM_CORE 0
 #define IFM_CORE 3
 
@@ -104,7 +104,7 @@ int main(void)
 	chan c_commutation_p1, c_commutation_p2, c_commutation_p3, c_signal;	// commutation channels
 	chan c_pwm_ctrl;														// pwm channels
 	chan c_qei;																// qei channels
-
+	chan c_watchdog; 														// watchdog channel
 
 	par
 	{
@@ -127,8 +127,10 @@ int main(void)
 		{
 			par
 			{
+			#ifndef MOTOR_CONTROL
 				/* ADC loop (only if motor control is not used) */
-			//	adc_ad7949( c_adc, clk_adc, p_ifm_adc_sclk_conv_mosib_mosia, p_ifm_adc_misoa, p_ifm_adc_misob );
+				adc_ad7949( c_adc, clk_adc, p_ifm_adc_sclk_conv_mosib_mosia, p_ifm_adc_misoa, p_ifm_adc_misob );
+			#else
 
 				/* ADC triggered loop (only if motor control is used) */
 				adc_ad7949_triggered(c_adc, c_adctrig, clk_adc,
@@ -148,10 +150,13 @@ int main(void)
 					init_qei_param(qei_params);
 					init_commutation_param(commutation_params, hall_params, MAX_NOMINAL_SPEED); // initialize commutation params
 					commutation_sinusoidal(c_hall_p1,  c_qei,\
-							 c_signal, c_commutation_p1, c_commutation_p2,\
+							 c_signal, c_watchdog, c_commutation_p1, c_commutation_p2,\
 							 c_commutation_p3, c_pwm_ctrl, hall_params,\
 							 qei_params, commutation_params);
 				}
+
+				/* Watchdog Server */
+				run_watchdog(c_watchdog, p_ifm_wd_tick, p_ifm_shared_leds_wden);
 
 				/* Hall Server */
 				{
@@ -159,6 +164,7 @@ int main(void)
 					init_hall_param(hall_params);
 					run_hall(c_hall_p1, c_hall_p2, c_hall_p3, c_hall_p4, c_hall_p5, p_ifm_hall, hall_params); // channel priority 1,2..4
 				}
+			#endif
 			}
 		}
 

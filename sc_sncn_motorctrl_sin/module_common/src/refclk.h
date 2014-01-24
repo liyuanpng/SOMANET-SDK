@@ -5,7 +5,7 @@
  *
  * Reference Core Clock definitions
  *
- * Copyright (c) 2013, Synapticon GmbH
+ * Copyright (c) 2014, Synapticon GmbH
  * All rights reserved.
  * Author: Martin Schwarz <mschwarz@synapticon.com>
  *
@@ -76,6 +76,7 @@ void wait_ms(int milliseconds, int core_id, timer t);
 
 /**
  * \brief Delay function in seconds
+ *		  Max delay of 21 seconds on Core: 0,1,2 and 8 seconds on Core: 3
  *
  *  Input
  * \param seconds specify the delay in seconds
