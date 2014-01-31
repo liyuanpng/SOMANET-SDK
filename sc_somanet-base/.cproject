@@ -42,6 +42,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="gnu.c.compiler.option.include.paths.41317830" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include&quot;' />
@@ -67,6 +73,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <inputType id="com.xmos.cdt.xc.compiler.input.22656867" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                             </tool>
@@ -83,6 +95,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -96,6 +114,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.c.compiler.base.11111" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
@@ -111,6 +135,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -124,6 +154,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.cpp.compiler.base.11111" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
@@ -139,6 +175,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -152,6 +194,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.core.assembler.base.11111" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
@@ -167,6 +215,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" valueType="includePath" superClass="com.xmos.c.compiler.option.include.paths">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -180,6 +234,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                         </toolChain>
@@ -322,6 +382,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="gnu.c.compiler.option.include.paths.18492114" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" valueType="includePath">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_TOOL_PATH}/target/include&quot;' />
@@ -356,6 +422,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <inputType id="com.xmos.cdt.xc.compiler.input.25449224" name="XC Sources" superClass="com.xmos.cdt.xc.compiler.input" />
                             </tool>
@@ -393,6 +465,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -427,6 +505,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.c.compiler.base.11111" name="com.xmos.cdt.c.compiler.base" superClass="com.xmos.cdt.c.compiler.base">
@@ -463,6 +547,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -497,6 +587,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.cpp.compiler.base.11111" name="com.xmos.cdt.cpp.compiler.base" superClass="com.xmos.cdt.cpp.compiler.base">
@@ -533,6 +629,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -567,6 +669,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                             <tool id="com.xmos.cdt.core.assembler.base.11111" name="com.xmos.cdt.core.assembler.base" superClass="com.xmos.cdt.core.assembler.base">
@@ -603,6 +711,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                                 <option id="com.xmos.c.compiler.option.include.paths.11111" superClass="com.xmos.c.compiler.option.include.paths" valueType="includePath">
                                     <listOptionValue builtIn="false" value='&quot;${XMOS_DOC_PATH}/../target/include&quot;' />
@@ -637,6 +751,12 @@
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_somanet-base/module_nodeconfig}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/canod}&quot;' />
                                     <listOptionValue builtIn="false" value='&quot;${workspace_loc:/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src/canod}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_sncn_ethercat/module_ethercat}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_fwupdate}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig/src}&quot;' />
+                                    <listOptionValue builtIn="false" value='&quot;${workspace_loc:/SOMANET-OS/sc_somanet-base/module_nodeconfig}&quot;' />
                                 </option>
                             </tool>
                         </toolChain>
