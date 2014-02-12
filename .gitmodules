@@ -3,13 +3,13 @@
 	url = https://github.com/synapticon/sc_sncn_motorctrl_sin.git
 [submodule "sc_pwm"]
 	path = sc_pwm
-	url = https://github.com/synapticon/sc_pwm
+	url = https://github.com/synapticon/sc_pwm.git
 [submodule "sc_somanet-base"]
 	path = sc_somanet-base
-	url = https://github.com/synapticon/sc_somanet-base
+	url = https://github.com/synapticon/sc_somanet-base.git
 [submodule "sc_sncn_ethercat"]
 	path = sc_sncn_ethercat
-	url = https://github.com/synapticon/sc_sncn_ethercat
+	url = https://github.com/synapticon/sc_sncn_ethercat.git
 [submodule "sc_sncn_ctrlproto"]
 	path = sc_sncn_ctrlproto
 	url = https://github.com/synapticon/sc_sncn_ctrlproto.git
