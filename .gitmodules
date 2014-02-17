@@ -13,3 +13,6 @@
 [submodule "sc_sncn_ctrlproto"]
 	path = sc_sncn_ctrlproto
 	url = https://github.com/synapticon/sc_sncn_ctrlproto.git
+[submodule "SOMANET-platform-files"]
+	path = SOMANET-platform-files
+	url = https://github.com/synapticon/SOMANET-platform-files.git
