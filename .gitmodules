@@ -16,3 +16,6 @@
 [submodule "SOMANET-platform-files"]
 	path = SOMANET-platform-files
 	url = https://github.com/synapticon/SOMANET-platform-files.git
+[submodule "sc_sncn_motorctrl_foc"]
+	path = sc_sncn_motorctrl_foc
+	url = https://github.com/synapticon/sc_sncn_motorctrl_foc.git
