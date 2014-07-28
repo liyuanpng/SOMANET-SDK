@@ -17,3 +17,6 @@
 	path = SOMANET-platform-files
 	url = https://github.com/synapticon/SOMANET-platform-files.git
 
+[submodule "sw_sncn_motorcontrol_ethercat_kit"]
+	path = sw_sncn_motorcontrol_ethercat_kit
+	url = https://github.com/synapticon/sw_sncn_motorcontrol_ethercat_kit.git
