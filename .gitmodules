@@ -19,3 +19,6 @@
 [submodule "sw_sncn_motorcontrol_ethercat_kit"]
 	path = sw_sncn_motorcontrol_ethercat_kit
 	url = https://github.com/synapticon/sw_sncn_motorcontrol_ethercat_kit.git
+[submodule "sw_sncn_motorcontrol"]
+	path = sw_sncn_motorcontrol
+	url = https://github.com/synapticon/sw_sncn_motorcontrol
