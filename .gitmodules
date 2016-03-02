@@ -10,3 +10,6 @@
 [submodule "sc_sncn_ethercat_drive"]
 	path = sc_sncn_ethercat_drive
 	url = https://github.com/synapticon/sc_sncn_ethercat_drive.git
+[submodule "sc_sncn_ethernet"]
+	path = sc_sncn_ethernet
+	url = https://github.com/synapticon/sc_sncn_ethernet.git
