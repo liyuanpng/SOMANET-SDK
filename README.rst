@@ -26,15 +26,7 @@ The latest develop version of SOMANET OS is accessible also on the **develop** b
 
 :code:`git checkout develop`
 
-If you receive the "*warning: unable to rmdir sc\_sncn\_motorctrl\_sin: Directory not empty*", please remove the *sc\_sncn\_motorctrl\_sin* repository manually:
-
-:code:`rm -r -f sc\_sncn\_motorctrl\_sin`
-
-Initialize submodules that are not part of the master branch:
-
-:code:`git submodule init`
-
 Update submodules to get the actual pointed commit:
 
-:code:`git submodule update`
+:code:`git submodule update --init`
                     
