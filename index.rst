@@ -1,10 +1,10 @@
 .. _software/v3.0.0-beta:
 
-=====================
- SOMANET SDK 3.0-beta
-=====================
+=========================
+ SOMANET SDK |latest_sdk|
+=========================
 
-Welcome to our Software Documentation! 
+Welcome to our Software Documentation!
 
 Browse our software components and code examples to learn how to use those components to create your own application. 
 
