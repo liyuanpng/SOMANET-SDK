@@ -28,5 +28,5 @@ The latest develop version of SOMANET SDK is accessible also on the **develop** 
 
 Update submodules to get the actual pointed commit:
 
-:code:`git submodule update --init`
+:code:`git submodule update --init --recursive`
                     
