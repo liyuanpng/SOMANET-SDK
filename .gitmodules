@@ -13,3 +13,6 @@
 [submodule "sc_sncn_ethernet"]
 	path = sc_sncn_ethernet
 	url = https://github.com/synapticon/sc_sncn_ethernet.git
+[submodule "sc_sncn_gpio"]
+	path = sc_sncn_gpio
+	url = https://github.com/synapticon/sc_sncn_gpio.git
