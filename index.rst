@@ -17,11 +17,13 @@ Software Components
 
 	SOMANET Base <sc_somanet-base/index.rst>
 	EtherCAT <sc_sncn_ethercat/index.rst>
+	Ethernet <sc_sncn_ethernet/index.rst>
 	Motion Control <sc_sncn_motorcontrol/index.rst>
 	SOMANET Sense <sc_sncn_gpio/index.rst>
 	
 * `SOMANET Base <sc_somanet-base>`_: Collection of useful utilities and basic firmware for SOMANET programming.
 * `SOMANET EtherCAT <sc_sncn_ethercat>`_: Driver for EtherCAT slave controller for SOMANET devices. Additionally, the component enables features such as firmware deployment/update from a Linux PC over EtherCAT.
+* `SOMANET Ethernet <sc_sncn_ethernet>`_: Driver for Ethernet-based slave controller for SOMANET Drive applications. Additionally, the component features...
 * `SOMANET Motion Control <sc_sncn_motorcontrol>`_: BLDC motors motion control software for SOMANET IFM DC-drive devices. 
 * `SOMANET Sense <sc_sncn_gpio>`_: Collection of useful utilities for SOMANET Sense module GPIO-A. 
 
