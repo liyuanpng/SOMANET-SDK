@@ -1,8 +1,8 @@
-.. _software/v2.0.0:
+.. _software/v2:
 
-==================
- SOMANET SDK 2.0.0
-==================
+==========================
+ SOMANET SDK |current_sdk|
+==========================
 
 Welcome to our Software Documentation! 
 
