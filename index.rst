@@ -1,8 +1,8 @@
-.. _software/v3.0.3:
+.. _software/v3:
 
-==================
- SOMANET SDK 3.0.3
-==================
+==========================
+ SOMANET SDK |current_sdk|
+==========================
 
 Welcome to our Software Documentation! 
 
