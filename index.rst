@@ -1,8 +1,8 @@
-.. _software/v3.0.0-beta:
+.. _software/v3.0.3:
 
-=====================
- SOMANET SDK 3.0-beta
-=====================
+==================
+ SOMANET SDK 3.0.3
+==================
 
 Welcome to our Software Documentation! 
 
